@@ -139,11 +139,11 @@ header ul li a
     align-items: center;
     flex-direction: column;
 }
-.sci .li
+.sci li
 {
     list-style: none;
 }
-.sci .li .a
+.sci li a
 {
     display: inline-block;
     margin: 5px 0;
